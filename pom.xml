@@ -5,13 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>co.edu.utp.misiontic2022.c2.cdiaz</groupId>
-  <artifactId>clase10-jdbc-sample</artifactId>
+  <artifactId>clase10-bookshop</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>clase10-jdbc-sample</name>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
-
+  <name>clase10-bookshop</name>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>11</maven.compiler.source>
